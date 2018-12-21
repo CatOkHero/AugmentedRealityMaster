@@ -1,0 +1,6 @@
+IP: 192.168.31.239
+IP: 10.8.0.222
+IP: fe80::b0bc:e3ff:fe14:a7c
+IP: fe80::6d31:9c0:52dc:2aef
+IP: fe80::8e58:eb9b:dcb3:5880
+Port: 33656

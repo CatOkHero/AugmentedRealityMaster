@@ -1,0 +1,341 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Debug/device-builds/iphone10.6-12.1/copySceneKitAssets/AugmentedReality.iOS.app/Models.scnassets/Drone-Design/Controllable Drone Animation Test.blend">
+      <LogicalName>Models.scnassets/Drone-Design/Controllable Drone Animation Test.blend</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Debug/device-builds/iphone10.6-12.1/copySceneKitAssets/AugmentedReality.iOS.app/Models.scnassets/Drone-Design/Controllable Drone Just The Model.blend">
+      <LogicalName>Models.scnassets/Drone-Design/Controllable Drone Just The Model.blend</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Debug/device-builds/iphone10.6-12.1/copySceneKitAssets/AugmentedReality.iOS.app/Models.scnassets/Drone-Design/Controllable Drone for Cycles Render.blend">
+      <LogicalName>Models.scnassets/Drone-Design/Controllable Drone for Cycles Render.blend</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Debug/device-builds/iphone10.6-12.1/copySceneKitAssets/AugmentedReality.iOS.app/Models.scnassets/Drone-Design/Controllable Drone v.1.2_Blender Game Engine.blend">
+      <LogicalName>Models.scnassets/Drone-Design/Controllable Drone v.1.2_Blender Game Engine.blend</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Debug/device-builds/iphone10.6-12.1/copySceneKitAssets/AugmentedReality.iOS.app/Models.scnassets/Drone-Design/Drone_3ds.3ds">
+      <LogicalName>Models.scnassets/Drone-Design/Drone_3ds.3ds</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Debug/device-builds/iphone10.6-12.1/copySceneKitAssets/AugmentedReality.iOS.app/Models.scnassets/Drone-Design/Drone_abc.abc">
+      <LogicalName>Models.scnassets/Drone-Design/Drone_abc.abc</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Debug/device-builds/iphone10.6-12.1/copySceneKitAssets/AugmentedReality.iOS.app/Models.scnassets/Drone-Design/Drone_dae.dae">
+      <LogicalName>Models.scnassets/Drone-Design/Drone_dae.dae</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Debug/device-builds/iphone10.6-12.1/copySceneKitAssets/AugmentedReality.iOS.app/Models.scnassets/Drone-Design/Drone_dxf.dxf">
+      <LogicalName>Models.scnassets/Drone-Design/Drone_dxf.dxf</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Debug/device-builds/iphone10.6-12.1/copySceneKitAssets/AugmentedReality.iOS.app/Models.scnassets/Drone-Design/Drone_fbx_6.1_ASCII.fbx">
+      <LogicalName>Models.scnassets/Drone-Design/Drone_fbx_6.1_ASCII.fbx</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Debug/device-builds/iphone10.6-12.1/copySceneKitAssets/AugmentedReality.iOS.app/Models.scnassets/Drone-Design/Drone_fbx_7.4_binary.fbx">
+      <LogicalName>Models.scnassets/Drone-Design/Drone_fbx_7.4_binary.fbx</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Debug/device-builds/iphone10.6-12.1/copySceneKitAssets/AugmentedReality.iOS.app/Models.scnassets/Drone-Design/Drone_ms3d.ms3d">
+      <LogicalName>Models.scnassets/Drone-Design/Drone_ms3d.ms3d</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Debug/device-builds/iphone10.6-12.1/copySceneKitAssets/AugmentedReality.iOS.app/Models.scnassets/Drone-Design/Drone_obj.mtl">
+      <LogicalName>Models.scnassets/Drone-Design/Drone_obj.mtl</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Debug/device-builds/iphone10.6-12.1/copySceneKitAssets/AugmentedReality.iOS.app/Models.scnassets/Drone-Design/Drone_ply.ply">
+      <LogicalName>Models.scnassets/Drone-Design/Drone_ply.ply</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Debug/device-builds/iphone10.6-12.1/copySceneKitAssets/AugmentedReality.iOS.app/Models.scnassets/Drone-Design/Drone_raw.raw">
+      <LogicalName>Models.scnassets/Drone-Design/Drone_raw.raw</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Debug/device-builds/iphone10.6-12.1/copySceneKitAssets/AugmentedReality.iOS.app/Models.scnassets/Drone-Design/Drone_stl.stl">
+      <LogicalName>Models.scnassets/Drone-Design/Drone_stl.stl</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Debug/device-builds/iphone10.6-12.1/copySceneKitAssets/AugmentedReality.iOS.app/Models.scnassets/Drone-Design/Drone_wrl.wrl">
+      <LogicalName>Models.scnassets/Drone-Design/Drone_wrl.wrl</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Debug/device-builds/iphone10.6-12.1/copySceneKitAssets/AugmentedReality.iOS.app/Models.scnassets/Drone-Design/Drone_x.x">
+      <LogicalName>Models.scnassets/Drone-Design/Drone_x.x</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Debug/device-builds/iphone10.6-12.1/copySceneKitAssets/AugmentedReality.iOS.app/Models.scnassets/Drone-Design/Drone_x3d.x3d">
+      <LogicalName>Models.scnassets/Drone-Design/Drone_x3d.x3d</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Debug/device-builds/iphone10.6-12.1/copySceneKitAssets/AugmentedReality.iOS.app/Models.scnassets/Drone-Design/textures/Flying drone_Ao_2.jpg">
+      <LogicalName>Models.scnassets/Drone-Design/textures/Flying drone_Ao_2.jpg</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Debug/device-builds/iphone10.6-12.1/copySceneKitAssets/AugmentedReality.iOS.app/Models.scnassets/Drone-Design/textures/Flying drone_Nor_2.jpg">
+      <LogicalName>Models.scnassets/Drone-Design/textures/Flying drone_Nor_2.jpg</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Debug/device-builds/iphone10.6-12.1/copySceneKitAssets/AugmentedReality.iOS.app/Models.scnassets/Drone-Design/textures/Flying drone_col.jpg">
+      <LogicalName>Models.scnassets/Drone-Design/textures/Flying drone_col.jpg</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Debug/device-builds/iphone10.6-12.1/copySceneKitAssets/AugmentedReality.iOS.app/Models.scnassets/Drone-Design/textures/Ground_Ao.jpg">
+      <LogicalName>Models.scnassets/Drone-Design/textures/Ground_Ao.jpg</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Debug/device-builds/iphone10.6-12.1/copySceneKitAssets/AugmentedReality.iOS.app/Models.scnassets/Drone-Design/textures/Ground_Col.jpg">
+      <LogicalName>Models.scnassets/Drone-Design/textures/Ground_Col.jpg</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Debug/device-builds/iphone10.6-12.1/copySceneKitAssets/AugmentedReality.iOS.app/Models.scnassets/Drone-Design/textures/Ground_Detail.jpg">
+      <LogicalName>Models.scnassets/Drone-Design/textures/Ground_Detail.jpg</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Debug/device-builds/iphone10.6-12.1/copySceneKitAssets/AugmentedReality.iOS.app/Models.scnassets/Drone-Design/textures/Ground_Nor.jpg">
+      <LogicalName>Models.scnassets/Drone-Design/textures/Ground_Nor.jpg</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Debug/device-builds/iphone10.6-12.1/copySceneKitAssets/AugmentedReality.iOS.app/Models.scnassets/Drone-Design/Drone.scn">
+      <LogicalName>Models.scnassets/Drone-Design/Drone.scn</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Debug/device-builds/iphone10.6-12.1/copySceneKitAssets/AugmentedReality.iOS.app/Models.scnassets/vase/textures/vase_AO.png">
+      <LogicalName>Models.scnassets/vase/textures/vase_AO.png</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Debug/device-builds/iphone10.6-12.1/copySceneKitAssets/AugmentedReality.iOS.app/Models.scnassets/vase/textures/vase_AO.png">
+      <LogicalName>Models.scnassets/vase/textures/vase_AO.png</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Debug/device-builds/iphone10.6-12.1/copySceneKitAssets/AugmentedReality.iOS.app/Models.scnassets/vase/textures/water_DIFFUSE.jpeg">
+      <LogicalName>Models.scnassets/vase/textures/water_DIFFUSE.jpeg</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Debug/device-builds/iphone10.6-12.1/copySceneKitAssets/AugmentedReality.iOS.app/Models.scnassets/vase/textures/vase_SHADOW.jpeg">
+      <LogicalName>Models.scnassets/vase/textures/vase_SHADOW.jpeg</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Debug/device-builds/iphone10.6-12.1/copySceneKitAssets/AugmentedReality.iOS.app/Models.scnassets/vase/textures/vase_ROUGHNESS.jpeg">
+      <LogicalName>Models.scnassets/vase/textures/vase_ROUGHNESS.jpeg</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Debug/device-builds/iphone10.6-12.1/copySceneKitAssets/AugmentedReality.iOS.app/Models.scnassets/vase/textures/vase_NORMAL.jpeg">
+      <LogicalName>Models.scnassets/vase/textures/vase_NORMAL.jpeg</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Debug/device-builds/iphone10.6-12.1/copySceneKitAssets/AugmentedReality.iOS.app/Models.scnassets/vase/textures/vase_METALLIC.jpeg">
+      <LogicalName>Models.scnassets/vase/textures/vase_METALLIC.jpeg</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Debug/device-builds/iphone10.6-12.1/copySceneKitAssets/AugmentedReality.iOS.app/Models.scnassets/vase/textures/vase_DIFFUSE.jpeg">
+      <LogicalName>Models.scnassets/vase/textures/vase_DIFFUSE.jpeg</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Debug/device-builds/iphone10.6-12.1/copySceneKitAssets/AugmentedReality.iOS.app/Models.scnassets/vase/textures/vase_AO.jpeg">
+      <LogicalName>Models.scnassets/vase/textures/vase_AO.jpeg</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Debug/device-builds/iphone10.6-12.1/copySceneKitAssets/AugmentedReality.iOS.app/Models.scnassets/DesignChair/3D models/DesignChair1.3ds">
+      <LogicalName>Models.scnassets/DesignChair/3D models/DesignChair1.3ds</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Debug/device-builds/iphone10.6-12.1/copySceneKitAssets/AugmentedReality.iOS.app/Models.scnassets/DesignChair/3D models/DesignChair1.blend">
+      <LogicalName>Models.scnassets/DesignChair/3D models/DesignChair1.blend</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Debug/device-builds/iphone10.6-12.1/copySceneKitAssets/AugmentedReality.iOS.app/Models.scnassets/DesignChair/3D models/DesignChair1.blend1">
+      <LogicalName>Models.scnassets/DesignChair/3D models/DesignChair1.blend1</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Debug/device-builds/iphone10.6-12.1/copySceneKitAssets/AugmentedReality.iOS.app/Models.scnassets/DesignChair/3D models/DesignChair1.dae">
+      <LogicalName>Models.scnassets/DesignChair/3D models/DesignChair1.dae</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Debug/device-builds/iphone10.6-12.1/copySceneKitAssets/AugmentedReality.iOS.app/Models.scnassets/DesignChair/3D models/DesignChair1.fbx">
+      <LogicalName>Models.scnassets/DesignChair/3D models/DesignChair1.fbx</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Debug/device-builds/iphone10.6-12.1/copySceneKitAssets/AugmentedReality.iOS.app/Models.scnassets/DesignChair/3D models/DesignChair1.mtl">
+      <LogicalName>Models.scnassets/DesignChair/3D models/DesignChair1.mtl</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Debug/device-builds/iphone10.6-12.1/copySceneKitAssets/AugmentedReality.iOS.app/Models.scnassets/DesignChair/3D models/DesignChair1.stl">
+      <LogicalName>Models.scnassets/DesignChair/3D models/DesignChair1.stl</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Debug/device-builds/iphone10.6-12.1/copySceneKitAssets/AugmentedReality.iOS.app/Models.scnassets/DesignChair/3D models/DesignChairScn.scn">
+      <LogicalName>Models.scnassets/DesignChair/3D models/DesignChairScn.scn</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Debug/device-builds/iphone10.6-12.1/copySceneKitAssets/AugmentedReality.iOS.app/Models.scnassets/DesignChair/Renders/DesignChair10001.png">
+      <LogicalName>Models.scnassets/DesignChair/Renders/DesignChair10001.png</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Debug/device-builds/iphone10.6-12.1/copySceneKitAssets/AugmentedReality.iOS.app/Models.scnassets/DesignChair/Renders/DesignChair2.png">
+      <LogicalName>Models.scnassets/DesignChair/Renders/DesignChair2.png</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Debug/device-builds/iphone10.6-12.1/copySceneKitAssets/AugmentedReality.iOS.app/Models.scnassets/DesignChair/Renders/DesignChair3.png">
+      <LogicalName>Models.scnassets/DesignChair/Renders/DesignChair3.png</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Debug/device-builds/iphone10.6-12.1/copySceneKitAssets/AugmentedReality.iOS.app/Models.scnassets/DesignChair/Textures/basketball-floor-texture.jpg">
+      <LogicalName>Models.scnassets/DesignChair/Textures/basketball-floor-texture.jpg</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Debug/device-builds/iphone10.6-12.1/copySceneKitAssets/AugmentedReality.iOS.app/Models.scnassets/DesignChair/DesignChair10001.png">
+      <LogicalName>Models.scnassets/DesignChair/DesignChair10001.png</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Debug/device-builds/iphone10.6-12.1/copySceneKitAssets/AugmentedReality.iOS.app/Models.scnassets/DesignChair/DesignChair2.png">
+      <LogicalName>Models.scnassets/DesignChair/DesignChair2.png</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Debug/device-builds/iphone10.6-12.1/copySceneKitAssets/AugmentedReality.iOS.app/Models.scnassets/DesignChair/DesignChair3.png">
+      <LogicalName>Models.scnassets/DesignChair/DesignChair3.png</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Debug/device-builds/iphone10.6-12.1/copySceneKitAssets/AugmentedReality.iOS.app/Models.scnassets/DesignChair/DesignChair1.3ds">
+      <LogicalName>Models.scnassets/DesignChair/DesignChair1.3ds</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Debug/device-builds/iphone10.6-12.1/copySceneKitAssets/AugmentedReality.iOS.app/Models.scnassets/DesignChair/DesignChair1.blend">
+      <LogicalName>Models.scnassets/DesignChair/DesignChair1.blend</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Debug/device-builds/iphone10.6-12.1/copySceneKitAssets/AugmentedReality.iOS.app/Models.scnassets/DesignChair/DesignChair1.blend1">
+      <LogicalName>Models.scnassets/DesignChair/DesignChair1.blend1</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Debug/device-builds/iphone10.6-12.1/copySceneKitAssets/AugmentedReality.iOS.app/Models.scnassets/DesignChair/DesignChair1.dae">
+      <LogicalName>Models.scnassets/DesignChair/DesignChair1.dae</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Debug/device-builds/iphone10.6-12.1/copySceneKitAssets/AugmentedReality.iOS.app/Models.scnassets/DesignChair/DesignChair1.fbx">
+      <LogicalName>Models.scnassets/DesignChair/DesignChair1.fbx</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Debug/device-builds/iphone10.6-12.1/copySceneKitAssets/AugmentedReality.iOS.app/Models.scnassets/DesignChair/DesignChair1.mtl">
+      <LogicalName>Models.scnassets/DesignChair/DesignChair1.mtl</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Debug/device-builds/iphone10.6-12.1/copySceneKitAssets/AugmentedReality.iOS.app/Models.scnassets/DesignChair/DesignChair1.stl">
+      <LogicalName>Models.scnassets/DesignChair/DesignChair1.stl</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Debug/device-builds/iphone10.6-12.1/copySceneKitAssets/AugmentedReality.iOS.app/Models.scnassets/DesignChair/DesignChairScn.scn">
+      <LogicalName>Models.scnassets/DesignChair/DesignChairScn.scn</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Debug/device-builds/iphone10.6-12.1/copySceneKitAssets/AugmentedReality.iOS.app/Models.scnassets/vase/textures/vase_DIFFUSE.png">
+      <LogicalName>Models.scnassets/vase/textures/vase_DIFFUSE.png</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Debug/device-builds/iphone10.6-12.1/copySceneKitAssets/AugmentedReality.iOS.app/Models.scnassets/blureffect/environment_blur.exr">
+      <LogicalName>Models.scnassets/blureffect/environment_blur.exr</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Debug/device-builds/iphone10.6-12.1/copySceneKitAssets/AugmentedReality.iOS.app/Models.scnassets/vase/vase.scn">
+      <LogicalName>Models.scnassets/vase/vase.scn</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Debug/device-builds/iphone10.6-12.1/copySceneKitAssets/AugmentedReality.iOS.app/Models.scnassets/vase/vase.scn">
+      <LogicalName>Models.scnassets/vase/vase.scn</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Debug/device-builds/iphone10.6-12.1/copySceneKitAssets/AugmentedReality.iOS.app/art.scnassets/ship.dae">
+      <LogicalName>art.scnassets/ship.dae</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Debug/device-builds/iphone10.6-12.1/copySceneKitAssets/AugmentedReality.iOS.app/art.scnassets/texture.png">
+      <LogicalName>art.scnassets/texture.png</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Debug/device-builds/iphone10.6-12.1/copySceneKitAssets/AugmentedReality.iOS.app/Models.scnassets/crosshair_blue.jpeg">
+      <LogicalName>Models.scnassets/crosshair_blue.jpeg</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Debug/device-builds/iphone10.6-12.1/copySceneKitAssets/AugmentedReality.iOS.app/Models.scnassets/crosshair_yellow.jpeg">
+      <LogicalName>Models.scnassets/crosshair_yellow.jpeg</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Debug/device-builds/iphone10.6-12.1/copySceneKitAssets/AugmentedReality.iOS.app/Models.scnassets/plane_grid.jpeg">
+      <LogicalName>Models.scnassets/plane_grid.jpeg</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Debug/device-builds/iphone10.6-12.1/copySceneKitAssets/AugmentedReality.iOS.app/Models.scnassets/crosshair_blue.png">
+      <LogicalName>Models.scnassets/crosshair_blue.png</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Debug/device-builds/iphone10.6-12.1/copySceneKitAssets/AugmentedReality.iOS.app/Models.scnassets/crosshair_yellow.png">
+      <LogicalName>Models.scnassets/crosshair_yellow.png</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Debug/device-builds/iphone10.6-12.1/copySceneKitAssets/AugmentedReality.iOS.app/Models.scnassets/plane_grid.png">
+      <LogicalName>Models.scnassets/plane_grid.png</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Debug/device-builds/iphone10.6-12.1/copySceneKitAssets/AugmentedReality.iOS.app/Models.scnassets/vase/textures/vase_DIFFUSE.png">
+      <LogicalName>Models.scnassets/vase/textures/vase_DIFFUSE.png</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Debug/device-builds/iphone10.6-12.1/copySceneKitAssets/AugmentedReality.iOS.app/Models.scnassets/vase/textures/vase_METALLIC.png">
+      <LogicalName>Models.scnassets/vase/textures/vase_METALLIC.png</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Debug/device-builds/iphone10.6-12.1/copySceneKitAssets/AugmentedReality.iOS.app/Models.scnassets/vase/textures/vase_NORMAL.png">
+      <LogicalName>Models.scnassets/vase/textures/vase_NORMAL.png</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Debug/device-builds/iphone10.6-12.1/copySceneKitAssets/AugmentedReality.iOS.app/Models.scnassets/vase/textures/vase_ROUGHNESS.png">
+      <LogicalName>Models.scnassets/vase/textures/vase_ROUGHNESS.png</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Debug/device-builds/iphone10.6-12.1/copySceneKitAssets/AugmentedReality.iOS.app/Models.scnassets/vase/textures/vase_SHADOW.png">
+      <LogicalName>Models.scnassets/vase/textures/vase_SHADOW.png</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Debug/device-builds/iphone10.6-12.1/copySceneKitAssets/AugmentedReality.iOS.app/Models.scnassets/vase/textures/water_DIFFUSE.png">
+      <LogicalName>Models.scnassets/vase/textures/water_DIFFUSE.png</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Debug/device-builds/iphone10.6-12.1/copySceneKitAssets/AugmentedReality.iOS.app/Models.scnassets/vase/textures/vase_AO.jpeg">
+      <LogicalName>Models.scnassets/vase/textures/vase_AO.jpeg</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Debug/device-builds/iphone10.6-12.1/copySceneKitAssets/AugmentedReality.iOS.app/Models.scnassets/vase/textures/vase_DIFFUSE.jpeg">
+      <LogicalName>Models.scnassets/vase/textures/vase_DIFFUSE.jpeg</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Debug/device-builds/iphone10.6-12.1/copySceneKitAssets/AugmentedReality.iOS.app/Models.scnassets/vase/textures/vase_METALLIC.jpeg">
+      <LogicalName>Models.scnassets/vase/textures/vase_METALLIC.jpeg</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Debug/device-builds/iphone10.6-12.1/copySceneKitAssets/AugmentedReality.iOS.app/Models.scnassets/vase/textures/vase_NORMAL.jpeg">
+      <LogicalName>Models.scnassets/vase/textures/vase_NORMAL.jpeg</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Debug/device-builds/iphone10.6-12.1/copySceneKitAssets/AugmentedReality.iOS.app/Models.scnassets/vase/textures/vase_ROUGHNESS.jpeg">
+      <LogicalName>Models.scnassets/vase/textures/vase_ROUGHNESS.jpeg</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Debug/device-builds/iphone10.6-12.1/copySceneKitAssets/AugmentedReality.iOS.app/Models.scnassets/vase/textures/vase_SHADOW.jpeg">
+      <LogicalName>Models.scnassets/vase/textures/vase_SHADOW.jpeg</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Debug/device-builds/iphone10.6-12.1/copySceneKitAssets/AugmentedReality.iOS.app/Models.scnassets/vase/textures/water_DIFFUSE.jpeg">
+      <LogicalName>Models.scnassets/vase/textures/water_DIFFUSE.jpeg</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Debug/device-builds/iphone10.6-12.1/copySceneKitAssets/AugmentedReality.iOS.app/Models.scnassets/blureffect/environment.jpg">
+      <LogicalName>Models.scnassets/blureffect/environment.jpg</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+  </ItemGroup>
+</Project>

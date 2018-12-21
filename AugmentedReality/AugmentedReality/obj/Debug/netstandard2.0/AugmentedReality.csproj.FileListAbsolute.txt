@@ -1,0 +1,9 @@
+/Users/rhapatyn/Documents/GitHub/AugmentedReality/AugmentedReality/AugmentedReality/bin/Debug/netstandard2.0/AugmentedReality.deps.json
+/Users/rhapatyn/Documents/GitHub/AugmentedReality/AugmentedReality/AugmentedReality/bin/Debug/netstandard2.0/AugmentedReality.dll
+/Users/rhapatyn/Documents/GitHub/AugmentedReality/AugmentedReality/AugmentedReality/bin/Debug/netstandard2.0/AugmentedReality.pdb
+/Users/rhapatyn/Documents/GitHub/AugmentedReality/AugmentedReality/AugmentedReality/obj/Debug/netstandard2.0/AugmentedReality.csprojAssemblyReference.cache
+/Users/rhapatyn/Documents/GitHub/AugmentedReality/AugmentedReality/AugmentedReality/obj/Debug/netstandard2.0/AugmentedReality.csproj.CoreCompileInputs.cache
+/Users/rhapatyn/Documents/GitHub/AugmentedReality/AugmentedReality/AugmentedReality/obj/Debug/netstandard2.0/AugmentedReality.AssemblyInfoInputs.cache
+/Users/rhapatyn/Documents/GitHub/AugmentedReality/AugmentedReality/AugmentedReality/obj/Debug/netstandard2.0/AugmentedReality.AssemblyInfo.cs
+/Users/rhapatyn/Documents/GitHub/AugmentedReality/AugmentedReality/AugmentedReality/obj/Debug/netstandard2.0/AugmentedReality.dll
+/Users/rhapatyn/Documents/GitHub/AugmentedReality/AugmentedReality/AugmentedReality/obj/Debug/netstandard2.0/AugmentedReality.pdb

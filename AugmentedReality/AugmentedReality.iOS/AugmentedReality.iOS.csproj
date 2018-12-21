@@ -1,0 +1,363 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">iPhoneSimulator</Platform>
+    <ProjectGuid>{1E2F9841-FC77-4A82-82AF-F1B2799EB718}</ProjectGuid>
+    <ProjectTypeGuids>{FEACFBD2-3405-455C-9665-78FE426C6842};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>AugmentedReality.iOS</RootNamespace>
+    <AssemblyName>AugmentedReality.iOS</AssemblyName>
+    <IPhoneResourcePrefix>Resources</IPhoneResourcePrefix>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|iPhoneSimulator' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\iPhoneSimulator\Debug</OutputPath>
+    <DefineConstants>DEBUG;ENABLE_TEST_CLOUD;</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodesignKey>iPhone Developer</CodesignKey>
+    <MtouchDebug>true</MtouchDebug>
+    <MtouchNoSymbolStrip>true</MtouchNoSymbolStrip>
+    <MtouchFastDev>true</MtouchFastDev>
+    <MtouchProfiling>true</MtouchProfiling>
+    <IOSDebuggerPort>62624</IOSDebuggerPort>
+    <MtouchLink>None</MtouchLink>
+    <MtouchArch>x86_64</MtouchArch>
+    <MtouchHttpClientHandler>HttpClientHandler</MtouchHttpClientHandler>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|iPhone' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\iPhone\Release</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodesignKey>iPhone Developer</CodesignKey>
+    <MtouchFloat32>true</MtouchFloat32>
+    <CodesignEntitlements>Entitlements.plist</CodesignEntitlements>
+    <MtouchLink>SdkOnly</MtouchLink>
+    <MtouchArch>ARM64</MtouchArch>
+    <MtouchHttpClientHandler>HttpClientHandler</MtouchHttpClientHandler>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|iPhoneSimulator' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\iPhoneSimulator\Release</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodesignKey>iPhone Developer</CodesignKey>
+    <MtouchNoSymbolStrip>true</MtouchNoSymbolStrip>
+    <MtouchLink>None</MtouchLink>
+    <MtouchArch>x86_64</MtouchArch>
+    <MtouchHttpClientHandler>HttpClientHandler</MtouchHttpClientHandler>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|iPhone' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\iPhone\Debug</OutputPath>
+    <DefineConstants>DEBUG;ENABLE_TEST_CLOUD;</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodesignKey>iPhone Developer</CodesignKey>
+    <DeviceSpecificBuild>true</DeviceSpecificBuild>
+    <MtouchDebug>true</MtouchDebug>
+    <MtouchNoSymbolStrip>true</MtouchNoSymbolStrip>
+    <MtouchFastDev>true</MtouchFastDev>
+    <MtouchProfiling>true</MtouchProfiling>
+    <MtouchFloat32>true</MtouchFloat32>
+    <CodesignEntitlements>Entitlements.plist</CodesignEntitlements>
+    <IOSDebuggerPort>33656</IOSDebuggerPort>
+    <MtouchLink>SdkOnly</MtouchLink>
+    <MtouchArch>ARM64</MtouchArch>
+    <MtouchHttpClientHandler>HttpClientHandler</MtouchHttpClientHandler>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="Xamarin.iOS" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="11.0.2" />
+    <PackageReference Include="Plugin.Share" Version="7.1.1" />
+  </ItemGroup>
+  <ItemGroup>
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Contents.json">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Assets.xcassets\AR Resources.arresourcegroup\Contents.json">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Assets.xcassets\First.imageset\Contents.json">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Assets.xcassets\First.imageset\tab_feed.png">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Assets.xcassets\First.imageset\tab_feed%402x.png">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Assets.xcassets\First.imageset\tab_feed%403x.png">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Assets.xcassets\Refresh.imageset\Contents.json">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Assets.xcassets\Refresh.imageset\refresh@2x1.png">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Assets.xcassets\Refresh.imageset\refresh@3x.png">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Assets.xcassets\RefreshButton.imageset\Contents.json">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Assets.xcassets\RefreshButton.imageset\refresh@2x.png">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Assets.xcassets\RefreshButton.imageset\refresh@3x.png">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Assets.xcassets\Second.imageset\Contents.json">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Assets.xcassets\Second.imageset\tab_about.png">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Assets.xcassets\Second.imageset\tab_about%402x.png">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Assets.xcassets\Second.imageset\tab_about%403x.png">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Assets.xcassets\XamarinLogo.imageset\Contents.json">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Assets.xcassets\XamarinLogo.imageset\xamarin_logo.png">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Assets.xcassets\XamarinLogo.imageset\xamarin_logo%402x.png">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Assets.xcassets\XamarinLogo.imageset\xamarin_logo%403x.png">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Assets.xcassets\Contents.json">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Assets.xcassets\Image.imageset\Contents.json" />
+    <ImageAsset Include="Assets.xcassets\AR Resources.arresourcegroup\ARImage.arreferenceimage\Contents.json" />
+  </ItemGroup>
+  <ItemGroup>
+    <SceneKitAsset Include="Models.scnassets\Drone-Design\Controllable Drone Animation Test.blend" />
+    <SceneKitAsset Include="Models.scnassets\Drone-Design\Controllable Drone Just The Model.blend" />
+    <SceneKitAsset Include="Models.scnassets\Drone-Design\Controllable Drone for Cycles Render.blend" />
+    <SceneKitAsset Include="Models.scnassets\Drone-Design\Controllable Drone v.1.2_Blender Game Engine.blend" />
+    <SceneKitAsset Include="Models.scnassets\Drone-Design\Drone_3ds.3ds" />
+    <SceneKitAsset Include="Models.scnassets\Drone-Design\Drone_abc.abc" />
+    <SceneKitAsset Include="Models.scnassets\Drone-Design\Drone_dae.dae" />
+    <SceneKitAsset Include="Models.scnassets\Drone-Design\Drone_dxf.dxf" />
+    <SceneKitAsset Include="Models.scnassets\Drone-Design\Drone_fbx_6.1_ASCII.fbx" />
+    <SceneKitAsset Include="Models.scnassets\Drone-Design\Drone_fbx_7.4_binary.fbx" />
+    <SceneKitAsset Include="Models.scnassets\Drone-Design\Drone_ms3d.ms3d" />
+    <SceneKitAsset Include="Models.scnassets\Drone-Design\Drone_obj.mtl" />
+    <SceneKitAsset Include="Models.scnassets\Drone-Design\Drone_obj.obj" />
+    <SceneKitAsset Include="Models.scnassets\Drone-Design\Drone_ply.ply" />
+    <SceneKitAsset Include="Models.scnassets\Drone-Design\Drone_raw.raw" />
+    <SceneKitAsset Include="Models.scnassets\Drone-Design\Drone_stl.stl" />
+    <SceneKitAsset Include="Models.scnassets\Drone-Design\Drone_wrl.wrl" />
+    <SceneKitAsset Include="Models.scnassets\Drone-Design\Drone_x.x" />
+    <SceneKitAsset Include="Models.scnassets\Drone-Design\Drone_x3d.x3d" />
+    <SceneKitAsset Include="Models.scnassets\Drone-Design\textures\Flying drone_Ao_2.jpg" />
+    <SceneKitAsset Include="Models.scnassets\Drone-Design\textures\Flying drone_Nor_2.jpg" />
+    <SceneKitAsset Include="Models.scnassets\Drone-Design\textures\Flying drone_col.jpg" />
+    <SceneKitAsset Include="Models.scnassets\Drone-Design\textures\Ground_Ao.jpg" />
+    <SceneKitAsset Include="Models.scnassets\Drone-Design\textures\Ground_Col.jpg" />
+    <SceneKitAsset Include="Models.scnassets\Drone-Design\textures\Ground_Detail.jpg" />
+    <SceneKitAsset Include="Models.scnassets\Drone-Design\textures\Ground_Nor.jpg" />
+    <SceneKitAsset Include="Models.scnassets\Drone-Design\Drone.scn" />
+    <SceneKitAsset Include="Models.scnassets\vase\textures\vase_AO.png" />
+    <SceneKitAsset Include="Resources\Models.scnassets\vase\textures\vase_AO.png" />
+    <SceneKitAsset Include="Resources\Models.scnassets\vase\textures\water_DIFFUSE.jpeg" />
+    <SceneKitAsset Include="Resources\Models.scnassets\vase\textures\vase_SHADOW.jpeg" />
+    <SceneKitAsset Include="Resources\Models.scnassets\vase\textures\vase_ROUGHNESS.jpeg" />
+    <SceneKitAsset Include="Resources\Models.scnassets\vase\textures\vase_NORMAL.jpeg" />
+    <SceneKitAsset Include="Resources\Models.scnassets\vase\textures\vase_METALLIC.jpeg" />
+    <SceneKitAsset Include="Resources\Models.scnassets\vase\textures\vase_DIFFUSE.jpeg" />
+    <SceneKitAsset Include="Resources\Models.scnassets\vase\textures\vase_AO.jpeg" />
+    <SceneKitAsset Include="Models.scnassets\DesignChair\.DS_Store" />
+    <SceneKitAsset Include="Models.scnassets\DesignChair\3D models\DesignChair1.3ds" />
+    <SceneKitAsset Include="Models.scnassets\DesignChair\3D models\DesignChair1.blend" />
+    <SceneKitAsset Include="Models.scnassets\DesignChair\3D models\DesignChair1.blend1" />
+    <SceneKitAsset Include="Models.scnassets\DesignChair\3D models\DesignChair1.dae" />
+    <SceneKitAsset Include="Models.scnassets\DesignChair\3D models\DesignChair1.fbx" />
+    <SceneKitAsset Include="Models.scnassets\DesignChair\3D models\DesignChair1.mtl" />
+    <SceneKitAsset Include="Models.scnassets\DesignChair\3D models\DesignChair1.obj" />
+    <SceneKitAsset Include="Models.scnassets\DesignChair\3D models\DesignChair1.stl" />
+    <SceneKitAsset Include="Models.scnassets\DesignChair\3D models\DesignChairScn.scn" />
+    <SceneKitAsset Include="Models.scnassets\DesignChair\Renders\DesignChair10001.png" />
+    <SceneKitAsset Include="Models.scnassets\DesignChair\Renders\DesignChair2.png" />
+    <SceneKitAsset Include="Models.scnassets\DesignChair\Renders\DesignChair3.png" />
+    <SceneKitAsset Include="Models.scnassets\DesignChair\Textures\basketball-floor-texture.jpg" />
+    <SceneKitAsset Include="Models.scnassets\DesignChair\DesignChair10001.png" />
+    <SceneKitAsset Include="Models.scnassets\DesignChair\DesignChair2.png" />
+    <SceneKitAsset Include="Models.scnassets\DesignChair\DesignChair3.png" />
+    <SceneKitAsset Include="Models.scnassets\DesignChair\DesignChair1.3ds" />
+    <SceneKitAsset Include="Models.scnassets\DesignChair\DesignChair1.blend" />
+    <SceneKitAsset Include="Models.scnassets\DesignChair\DesignChair1.blend1" />
+    <SceneKitAsset Include="Models.scnassets\DesignChair\DesignChair1.dae" />
+    <SceneKitAsset Include="Models.scnassets\DesignChair\DesignChair1.fbx" />
+    <SceneKitAsset Include="Models.scnassets\DesignChair\DesignChair1.mtl" />
+    <SceneKitAsset Include="Models.scnassets\DesignChair\DesignChair1.obj" />
+    <SceneKitAsset Include="Models.scnassets\DesignChair\DesignChair1.stl" />
+    <SceneKitAsset Include="Models.scnassets\DesignChair\DesignChairScn.scn" />
+    <SceneKitAsset Include="Models.scnassets\vase\textures\vase_DIFFUSE.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <InterfaceDefinition Include="LaunchScreen.storyboard" />
+    <InterfaceDefinition Include="Main.storyboard" />
+  </ItemGroup>
+  <ItemGroup>
+    <SceneKitAsset Include="Models.scnassets\blureffect\environment_blur.exr" />
+    <SceneKitAsset Include="Models.scnassets\vase\vase.scn" />
+    <SceneKitAsset Include="Resources\Models.scnassets\vase\vase.scn" />
+    <SceneKitAsset Include="art.scnassets\ship.dae" />
+    <None Include="Info.plist">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Entitlements.plist" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Extensions\ARSCNViewExtensions.cs" />
+    <Compile Include="Extensions\CGPointExtensions.cs" />
+    <Compile Include="Extensions\CGRectExtensions.cs" />
+    <Compile Include="Extensions\CGSizeExtensions.cs" />
+    <Compile Include="Extensions\ListExtensions.cs" />
+    <Compile Include="Extensions\Matrix4Extensions.cs" />
+    <Compile Include="Extensions\NSSetExtensions.cs" />
+    <Compile Include="Extensions\SCNMaterialExtensions.cs" />
+    <Compile Include="Extensions\SCNNodeExtensions.cs" />
+    <Compile Include="Extensions\SCNScene_Extensions.cs" />
+    <Compile Include="Extensions\SCNVector3Extensions.cs" />
+    <Compile Include="Extensions\UIImageExtensions.cs" />
+    <Compile Include="UIElements\FocusSquare.cs" />
+    <Compile Include="UIElements\FocusSquareSegment.cs" />
+    <Compile Include="UIElements\Gesture.cs" />
+    <Compile Include="UIElements\Plane.cs" />
+    <Compile Include="UIElements\SingleFingerGesture.cs" />
+    <Compile Include="UIElements\TwoFingerGesture.cs" />
+    <Compile Include="Utilities\AppSettings.cs" />
+    <Compile Include="Utilities\FeatureHitTestResult.cs" />
+    <Compile Include="Utilities\HitTestRay.cs" />
+    <Compile Include="Utilities\TextManager.cs" />
+    <Compile Include="Utilities\Utilities.cs" />
+    <Compile Include="ViewControllers\ARKitController.cs" />
+    <Compile Include="ViewControllers\ARKitController.designer.cs">
+      <DependentUpon>ARKitController.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Extensions\SCNMatrixExtension.cs" />
+    <Compile Include="Main.cs" />
+    <Compile Include="AppDelegate.cs" />
+    <Compile Include="ViewControllers\AboutViewController.cs" />
+    <Compile Include="ViewControllers\AboutViewController.designer.cs">
+      <DependentUpon>AboutViewController.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewControllers\BrowseViewController.cs" />
+    <Compile Include="ViewControllers\BrowseViewController.designer.cs">
+      <DependentUpon>BrowseViewController.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewControllers\DetailViewControllers\BrowseItemDetailViewController.cs" />
+    <Compile Include="ViewControllers\DetailViewControllers\BrowseItemDetailViewController.designer.cs">
+      <DependentUpon>BrowseItemDetailViewController.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Delegates\SessionDelegate.cs" />
+    <Compile Include="ViewControllers\ItemNewViewController.cs" />
+    <Compile Include="ViewControllers\ItemNewViewController.designer.cs">
+      <DependentUpon>ItemNewViewController.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewControllers\TabBarController.cs" />
+    <Compile Include="ViewControllers\TabBarController.designer.cs">
+      <DependentUpon>TabBarController.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\AugmentedReality\AugmentedReality.csproj">
+      <Project>{16F73C2C-22E4-4417-8A1A-D98910AE8220}</Project>
+      <Name>AugmentedReality</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <SceneKitAsset Include="art.scnassets\texture.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="refresh%403x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <SceneKitAsset Include="Models.scnassets\crosshair_blue.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <SceneKitAsset Include="Models.scnassets\crosshair_yellow.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <SceneKitAsset Include="Models.scnassets\plane_grid.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <SceneKitAsset Include="Resources\Models.scnassets\crosshair_blue.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <SceneKitAsset Include="Resources\Models.scnassets\crosshair_yellow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <SceneKitAsset Include="Resources\Models.scnassets\plane_grid.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <SceneKitAsset Include="Resources\Models.scnassets\vase\textures\vase_DIFFUSE.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <SceneKitAsset Include="Resources\Models.scnassets\vase\textures\vase_METALLIC.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <SceneKitAsset Include="Resources\Models.scnassets\vase\textures\vase_NORMAL.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <SceneKitAsset Include="Resources\Models.scnassets\vase\textures\vase_ROUGHNESS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <SceneKitAsset Include="Resources\Models.scnassets\vase\textures\vase_SHADOW.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <SceneKitAsset Include="Resources\Models.scnassets\vase\textures\water_DIFFUSE.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <SceneKitAsset Include="Models.scnassets\vase\textures\vase_AO.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <SceneKitAsset Include="Models.scnassets\vase\textures\vase_DIFFUSE.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <SceneKitAsset Include="Models.scnassets\vase\textures\vase_METALLIC.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <SceneKitAsset Include="Models.scnassets\vase\textures\vase_NORMAL.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <SceneKitAsset Include="Models.scnassets\vase\textures\vase_ROUGHNESS.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <SceneKitAsset Include="Models.scnassets\vase\textures\vase_SHADOW.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <SceneKitAsset Include="Models.scnassets\vase\textures\water_DIFFUSE.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <SceneKitAsset Include="Models.scnassets\blureffect\environment.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
+</Project>

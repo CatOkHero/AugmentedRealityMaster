@@ -1,0 +1,17 @@
+Function=xamarin_timezone_get_data
+	/Users/rhapatyn/Documents/GitHub/AugmentedReality/AugmentedReality/AugmentedReality.iOS/obj/iPhone/Debug/device-builds/iphone10.6-12.1/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_log
+	/Users/rhapatyn/Documents/GitHub/AugmentedReality/AugmentedReality/AugmentedReality.iOS/obj/iPhone/Debug/device-builds/iphone10.6-12.1/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_find_protocol_wrapper_type
+	/Users/rhapatyn/Documents/GitHub/AugmentedReality/AugmentedReality/AugmentedReality.iOS/obj/iPhone/Debug/device-builds/iphone10.6-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_release_block_on_main_thread
+	/Users/rhapatyn/Documents/GitHub/AugmentedReality/AugmentedReality/AugmentedReality.iOS/obj/iPhone/Debug/device-builds/iphone10.6-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_get_block_descriptor
+	/Users/rhapatyn/Documents/GitHub/AugmentedReality/AugmentedReality/AugmentedReality.iOS/obj/iPhone/Debug/device-builds/iphone10.6-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend
+	/Users/rhapatyn/Documents/GitHub/AugmentedReality/AugmentedReality/AugmentedReality.iOS/obj/iPhone/Debug/device-builds/iphone10.6-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSend
+	/Users/rhapatyn/Documents/GitHub/AugmentedReality/AugmentedReality/AugmentedReality.iOS/obj/iPhone/Debug/device-builds/iphone10.6-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=UIApplicationMain
+	/Users/rhapatyn/Documents/GitHub/AugmentedReality/AugmentedReality/AugmentedReality.iOS/obj/iPhone/Debug/device-builds/iphone10.6-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=mono_pmip
